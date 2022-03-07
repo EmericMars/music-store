@@ -1,0 +1,18 @@
+.btn-blue {
+	background-color: #d2ac79;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Merriweather', serif;
+}
+
+.btn-end {
+	background-color: lightgrey;
+	padding: 8px 12px;
+	border-radius: 8px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Merriweather', serif;
+	margin-left: 585px;
+}
